@@ -44,7 +44,7 @@
 
 ## Software
 
-![SafeLock System Diagram]()
+![SafeLock System Diagram](embedded.png)
 
 ### Key Libraries
 
